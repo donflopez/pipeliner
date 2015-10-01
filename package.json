@@ -1,0 +1,26 @@
+{
+  "name": "pipeliner",
+  "version": "0.9.0",
+  "description": "Merge sync and async code into a pipeline",
+  "main": "pipe.ja",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/donflopez/pipeliner.git"
+  },
+  "keywords": [
+    "pipeline",
+    "sync",
+    "async",
+    "fs",
+    "network"
+  ],
+  "author": "Francisco López <donflopez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/donflopez/pipeliner/issues"
+  },
+  "homepage": "https://github.com/donflopez/pipeliner#readme"
+}
