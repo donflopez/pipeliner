@@ -1,5 +1,5 @@
 {
-  "name": "pipeliner",
+  "name": "pipeliners",
   "version": "0.9.0",
   "description": "Merge sync and async code into a pipeline",
   "main": "pipe.js",
